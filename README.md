@@ -23,3 +23,14 @@ You will be using the following Javascript tools,
 numbers guessed, and whether the guess was too high or to low.
 10. You might need a += operator, && operator, < operator, > operator, === operator.
 11. You will need input.focus(); -google to see what it does!
+
+### Instructions to start project
+Just in case you do not remember how to create a new project and clone git...
+1. Create a new directory
+`mkdir numberGame`
+2. Change your working directory to numberGame
+`cd numberGame`
+3. Clone the code you need into the directory you just created
+`git clone https://github.com/steveflint3/numberGame.git`
+4. Open your cloned code in Atom
+`atom .`
